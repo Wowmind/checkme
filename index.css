@@ -1,0 +1,12 @@
+.container{
+	font-style: normal;
+	color: skyblue
+	margin: auto;
+}
+body{
+	background-color: blue
+}
+.post{
+	margin:auto;
+	font-style: italic;
+}
